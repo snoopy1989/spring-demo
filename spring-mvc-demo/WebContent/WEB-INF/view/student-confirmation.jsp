@@ -11,6 +11,7 @@
 <body>
 
 	The student is confirmed: ${student.firstName} ${student.lastName} 
+	from ${student.country} <!-- calls student.getCountry -->
 
 </body>
 
